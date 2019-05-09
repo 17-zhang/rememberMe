@@ -1,0 +1,2 @@
+# -
+利用setCookie getCookie
